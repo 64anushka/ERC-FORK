@@ -25,7 +25,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 ### Interface
 
 ```solidity
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 interface IDecentralizedIdentity {
@@ -67,6 +66,7 @@ interface IDecentralizedIdentity {
     // identity The decentralized identity struct.
     function getIdentity(address userAddress) external view returns (Identity memory);
 }
+
 ```
 
 ## Rationale
@@ -76,7 +76,6 @@ The design leverages cryptographic hashes to represent identity information, ens
 ## Reference Implementation
 
 ```solidity
-// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 import "./IDecentralizedIdentity.sol";
