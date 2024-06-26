@@ -7,7 +7,7 @@ discussions-to: https://ethereum-magicians.org/t/erc-7720-deferred-token-transfe
 status: Draft
 type: Standards Track
 category: ERC
-created: 2024-06-25
+created: 2024-06-26
 ---
 
 ## Abstract
