@@ -1,9 +1,9 @@
 ---
-eip: 64
+eip: xx
 title: Decentralized Identity Verification (DID) Standard
 description: A standard for decentralized identity verification on the Ethereum blockchain.
 author: Anushka Yadav <64anushka@gmail.com>
-discussions-to: https://ethereum-magicians.org/t/erc-7720-deferred-token-transfer/20245
+discussions-to: https://ethereum-magicians.org/t/discussion-on-decentralized-identity-verification-did-standard/20392
 status: Draft
 type: Standards Track
 category: ERC

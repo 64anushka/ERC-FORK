@@ -16,5 +16,5 @@ jobs:
     steps:
       - uses: Pandapip1/jekyll-label-action@d0fd82c3cd118140a50843906845fca8e59a8b9e
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: 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
           config-path: config/.jekyll-labels.yml
